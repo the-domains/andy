@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#90B0C0'
+    - '#5D5428'
+    - '#607890'
+    - '#B8A858'
+    - '#000000'
+  brandStrength: 0.155476
+  lightness: 0.077102
+  rhythmicContrast: 0.116265
+  saturation: 0.20433
+cta: {}
+layout_spectrum: 0.206926
+name: andrew
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.782939
