@@ -1,4 +1,19 @@
-analytics: {}
+name: andrew
+favicon: null
+layout_spectrum: 0.206926
+typography_spectrum: 0.782939
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#90B0C0'
@@ -8,11 +23,9 @@ color:
     - '#000000'
   brandStrength: 0.155476
   lightness: 0.077102
-  rhythmicContrast: 0.116265
   saturation: 0.20433
-cta: {}
-layout_spectrum: 0.206926
-name: andrew
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.782939
+  rhythmicContrast: 0.116265
+purpose:
+  - name: null
+    item: null
+    url: null
